@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BerfinKelesHomework3</string>
+    <string name="main_activity_title">News</string>
+    <string name="news_detail_title">News Details</string>
+    <string name="comments_title">Comments</string>
+    <string name="post_comment_title">Post Comment</string>
+    <string-array name="categories">
+        <item>All</item>
+        <item>Economics</item>
+        <item>Politics</item>
+        <item>Sports</item>
+    </string-array>
+</resources>
